@@ -8,7 +8,7 @@ Windows has a hidden folder called `C:\Windows\Installer` that grows forever and
 
 ### Simple Browser Picker
 
-When you click a link in an email, a Teams message, a document or anything else outside your browser, Simple Browser Picker pops up and lets you choose which browser and profile to open it in. Then it goes away. It detects every browser and every browser profile on your machine, including all Chromium and Firefox variants. You can also set up rules so that specific sites always go to the right place without being asked.
+When you click a link in an email, a Teams message, a document or anything else outside your browser, Simple Browser Picker pops up and lets you choose which browser and profile to open it in. Then it goes away. It detects every browser and every browser profile on your machine, including all Chromium and Firefox variants. Or just tick "remember my choice" and that site will always open in the same place.
 
 ### Smart Auto Refresh & Notify
 

@@ -8,7 +8,7 @@ Windows has a hidden folder called `C:\Windows\Installer` that grows forever and
 
 ### Simple Browser Picker
 
-Registers as your default browser and shows a picker every time a link is opened. You choose which browser (and which profile) it opens in. Supports every Chromium and Firefox-family browser, including profiles. Rules let you route specific sites silently without being asked. Single exe, nothing to install.
+When you click a link in an email, a Teams message, a document or anything else outside your browser, Simple Browser Picker pops up and lets you choose which browser and profile to open it in. Then it goes away. It detects every browser and every browser profile on your machine, including all Chromium and Firefox variants. You can also set up rules so that specific sites always go to the right place without being asked.
 
 ### Smart Auto Refresh & Notify
 
@@ -16,7 +16,7 @@ Auto-refreshes a browser tab on a timer. Optionally plays a sound when specific 
 
 ### Simple Video Downloader
 
-Download video and audio from the browser. Pick your format, queue up multiple downloads, let it get on with it. Powered by yt-dlp. Firefox.
+Right-click a video, download it. YouTube, Facebook, X and hundreds of other sites. Chapters, SponsorBlock, synchronised subtitles, multiple formats. No copying URLs into a separate app. It's right there in your browser and your right-click menu. Firefox extension with a local server powered by yt-dlp.
 
 ### Transcribe
 
